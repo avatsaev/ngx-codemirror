@@ -12,7 +12,7 @@ TestComponent.decorators = [
                 selector: 'app-test',
                 template: `
     <p>
-      --test works!--
+      --/test works!|--
     </p>
   `,
                 styles: [`

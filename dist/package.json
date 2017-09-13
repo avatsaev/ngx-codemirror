@@ -23,5 +23,9 @@
     "core-js": "^2.4.1",
     "rxjs": "^5.4.2",
     "zone.js": "^0.8.14"
-  }
+  },
+  "main": "bundles/ngx-change-flash.umd.js",
+  "module": "ngx-change-flash/ngx-change-flash.es5.js",
+  "es2015": "ngx-change-flash/ngx-change-flash.js",
+  "typings": "ngx-change-flash.d.ts"
 }

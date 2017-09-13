@@ -30,7 +30,7 @@
     "@angular/platform-browser": "^4.3.6",
     "@angular/platform-browser-dynamic": "^4.3.6",
     "core-js": "^2.4.1",
-    "ngx-change-flash": "file:dist/ngx-change-flash-1.0.0.tgz",
+    "ngx-change-flash": "file:dist/ngx-change-flash-1.0.0-beta1.tgz",
     "rxjs": "^5.4.2",
     "zone.js": "^0.8.14"
   },
