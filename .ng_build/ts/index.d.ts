@@ -1,1 +1,1 @@
-export * from './modules/change-flash/change-flash.module';
+export * from './codemirror.module';

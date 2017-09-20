@@ -1,10 +1,11 @@
 {
   "$schema": "./node_modules/ng-packagr/ng-package.schema.json",
-
-
-  "src": "./src/app/lib/",
   "lib": {
-    "name": "ngx-change-flash",
-    "entryFile": "index.ts"
+    "name": "ngx-codemirror",
+    "entryFile": "src/app/lib/index.ts",
+    "externals": {
+      "codemirror/index": "codemirror",
+      "codemirror": "codemirror"
+    }
   }
 }

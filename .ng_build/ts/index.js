@@ -1,2 +1,2 @@
-export { ChangeFlashModule } from './modules/change-flash/change-flash.module';
+export { CodeMirrorModule } from './codemirror.module';
 //# sourceMappingURL=index.js.map

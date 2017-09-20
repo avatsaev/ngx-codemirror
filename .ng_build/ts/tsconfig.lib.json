@@ -1,8 +1,8 @@
 {
   "angularCompilerOptions": {
     "annotateForClosureCompiler": true,
-    "flatModuleId": "ngx-change-flash",
-    "flatModuleOutFile": "ngx-change-flash.js",
+    "flatModuleId": "ngx-codemirror",
+    "flatModuleOutFile": "ngx-codemirror.js",
     "skipTemplateCodegen": true,
     "strictMetadataEmit": true
   },
@@ -36,6 +36,6 @@
     "**/*.spec.ts"
   ],
   "files": [
-    "index.ts"
+    "src/app/lib/index.ts"
   ]
 }
